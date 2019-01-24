@@ -1,0 +1,4 @@
+#Thu Nov 02 23:17:03 AEDT 2017
+base.0=E\:\\Android\\Projects\\Ass8\\SunCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+renamed.0=classes.dex
+file.0=E\:\\Android\\Projects\\Ass8\\SunCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23\\classes.dex

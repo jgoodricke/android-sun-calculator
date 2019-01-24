@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1d4603fddffea9878f87f29b84907812\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\dc763a34cb25295f9889133f2cb15dc4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:16:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7904e5e340aa04496768fffc12ae9109\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\6d154b66518afc50ec20b9772859fbb6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\eb33afdcdbc3ddfb34ab4fd3b872c442\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\a09874e7f2337f323ef18db7c4871157\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1acaf085b0b89b6c6471987a8dc213f3\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:7:2-92
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:7:19-73
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:8:2-92
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:8:19-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:9:2-80
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:12:2-75
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:12:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:13:2-77
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:13:19-75
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:14:2-15:78
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:15:3-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:18:19-75
+application
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:22:2-41:16
+MERGED from [com.android.support:design:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1d4603fddffea9878f87f29b84907812\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1d4603fddffea9878f87f29b84907812\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\dc763a34cb25295f9889133f2cb15dc4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\dc763a34cb25295f9889133f2cb15dc4\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:27:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7904e5e340aa04496768fffc12ae9109\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7904e5e340aa04496768fffc12ae9109\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\6d154b66518afc50ec20b9772859fbb6\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\6d154b66518afc50ec20b9772859fbb6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\a09874e7f2337f323ef18db7c4871157\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\a09874e7f2337f323ef18db7c4871157\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1acaf085b0b89b6c6471987a8dc213f3\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1acaf085b0b89b6c6471987a8dc213f3\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:24:3-35
+	android:icon
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:23:3-34
+activity#swindroid.suntime.ui.Main
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:25:3-34:14
+	android:screenOrientation
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:28:4-40
+	android:label
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:27:4-36
+	android:theme
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:29:4-60
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:26:4-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:30:4-33:20
+action#android.intent.action.MAIN
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:31:5-56
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:31:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:32:5-64
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:32:15-62
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:37:3-39:61
+	android:value
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:39:4-59
+	android:name
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml:38:4-49
+uses-sdk
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1d4603fddffea9878f87f29b84907812\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1d4603fddffea9878f87f29b84907812\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\dc763a34cb25295f9889133f2cb15dc4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\dc763a34cb25295f9889133f2cb15dc4\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:26:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7904e5e340aa04496768fffc12ae9109\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7904e5e340aa04496768fffc12ae9109\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\6d154b66518afc50ec20b9772859fbb6\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\6d154b66518afc50ec20b9772859fbb6\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\eb33afdcdbc3ddfb34ab4fd3b872c442\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\eb33afdcdbc3ddfb34ab4fd3b872c442\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\a09874e7f2337f323ef18db7c4871157\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\a09874e7f2337f323ef18db7c4871157\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1acaf085b0b89b6c6471987a8dc213f3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\1acaf085b0b89b6c6471987a8dc213f3\AndroidManifest.xml:20:5-43
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\dc763a34cb25295f9889133f2cb15dc4\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Projects\Ass8\SunCalculator\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\db3c823dc0b63c70528ee5dba6b52a25\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\53b4f3440f67e855a58e4d3a86bfa801\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] E:\Android\Gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\7cd4a094d112ab359433e8e5030194f4\AndroidManifest.xml:22:13-58

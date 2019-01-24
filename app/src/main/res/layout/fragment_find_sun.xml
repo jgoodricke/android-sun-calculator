@@ -1,0 +1,178 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			 xmlns:tools="http://schemas.android.com/tools"
+			 android:layout_width="match_parent"
+			 android:layout_height="match_parent"
+			 tools:context="swindroid.suntime.ui.FindSunFragment">
+
+	<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:layout_below="@id/tabLayout">
+
+		<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+					  android:layout_width="fill_parent"
+					  android:layout_height="fill_parent"
+					  android:orientation="vertical">
+
+			<Spinner
+				android:id="@+id/location_spinner"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"/>
+
+			<TableLayout
+				android:id="@+id/TableLayout01"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:padding="5sp"
+				android:stretchColumns="0,1">
+
+				<TableRow
+					android:id="@+id/TableRow01"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content">
+
+					<TextView
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:gravity="center"
+						android:padding="2sp"
+						android:text="Sun Rise"
+						android:textColor="#ffd700"
+						android:textSize="24sp"></TextView>
+
+					<TextView
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:gravity="center"
+						android:padding="2sp"
+						android:text="Sun Set"
+						android:textColor="#ff8400"
+						android:textSize="24sp"></TextView>
+				</TableRow>
+
+				<TableRow
+					android:id="@+id/TableRow02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content">
+
+					<TextView
+						android:id="@+id/sunriseTimeTV"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:gravity="center"
+						android:padding="2sp"
+						android:text="00:00"
+						android:textColor="#ffd700"
+						android:textSize="48sp"></TextView>
+
+					<TextView
+						android:id="@+id/sunsetTimeTV"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:gravity="center"
+						android:padding="2sp"
+						android:text="00:00"
+						android:textColor="#ff8400"
+						android:textSize="48sp"></TextView>
+				</TableRow>
+			</TableLayout>
+
+			<ImageView
+				android:id="@+id/ImageView01"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="10dp"
+				android:src="@drawable/sunpic"></ImageView>
+
+			<DatePicker
+				android:id="@+id/datePicker"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:padding="5sp"></DatePicker>
+
+			<!--New Location-->
+			<TextView
+				android:id="@+id/add_title"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="Add New Location"
+				android:textSize="20sp"/>
+
+			<!--Location Name-->
+			<EditText
+				android:id="@+id/location_editText"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:ems="10"/>
+
+			<TextView
+				android:id="@+id/location_label"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingBottom="12dp"
+				android:paddingLeft="6dp"
+				android:text="City Name"
+				android:textSize="14sp"/>
+
+			<!--Latitude-->
+			<EditText
+				android:id="@+id/lat_editText"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:ems="10"
+				android:inputType="numberSigned|numberDecimal"/>
+
+			<TextView
+				android:id="@+id/lat_label"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingBottom="12dp"
+				android:paddingLeft="6dp"
+				android:text="Latitude"
+				android:textSize="14sp"/>
+
+			<!--Longitude-->
+			<EditText
+				android:id="@+id/lon_editText"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:ems="10"
+				android:inputType="numberSigned|numberDecimal"/>
+
+			<TextView
+				android:id="@+id/lon_label"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingBottom="12dp"
+				android:paddingLeft="6dp"
+				android:text="Longitude"
+				android:textSize="14sp"/>
+
+			<!--Timezone-->
+			<EditText
+				android:id="@+id/time_editText"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:ems="10"/>
+
+			<TextView
+				android:id="@+id/time_label"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingBottom="12dp"
+				android:paddingLeft="6dp"
+				android:text="Timezone"
+				android:textSize="14sp"/>
+
+			<!--Save Button-->
+			<Button
+				android:id="@+id/save_button"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="Save"/>
+		</LinearLayout>
+	</ScrollView>
+
+</FrameLayout>
